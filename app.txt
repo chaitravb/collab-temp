@@ -2,3 +2,5 @@
 2. signup page
 3. home page
 4. user page
+5. payment page
+6. pre view page
