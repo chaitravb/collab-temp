@@ -1,0 +1,4 @@
+1. login page 
+2. signup page
+3. home page
+4. user page
